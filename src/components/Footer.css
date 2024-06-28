@@ -1,0 +1,9 @@
+.footer-container{
+    background-color: #34353a;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+
+    color: whitesmoke;
+}
