@@ -33,13 +33,6 @@
 .hero-content-header{
     color: goldenrod;
 }
-.hero-img img{
-    width: 40vh;
-    opacity: 70%;
-}
-.hero-img{
-    margin-left: 400px;
-}
 .social-media-links{
     display: flex;
     gap: 10px;
@@ -53,12 +46,4 @@
 }
 .social-media-links a img:hover{
     transform: scale(1.1);
-}
-@media (max-width:600px) {
-    .hero-img{
-        margin: 0%;
-    }
-    .hero-img img{
-       display: none;
-    }
 }
