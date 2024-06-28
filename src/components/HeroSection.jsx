@@ -1,6 +1,6 @@
 import React from 'react'
 import "./HeroSection.css"
-import portfolio from "../assets/portfolio.png"
+
 import { data,Social_media_links } from '../Data/userData'
 
 
