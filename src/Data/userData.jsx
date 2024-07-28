@@ -17,12 +17,13 @@ import gmail from "../assets/mail.png"
 import calculator from "../assets/CalculatorProject.png"
 import crud from "../assets/CRUDproject.png"
 import qrgenerator from "../assets/QRcodeproject.png"
+import SK from '../assets/SK.jpg'
 
 
 
 
 
-
+export const Hero_image = SK ;
 
 export const data = {
   id: 1,
