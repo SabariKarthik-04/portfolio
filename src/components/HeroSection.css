@@ -64,3 +64,9 @@
 .social-media-links a img:hover{
     transform: scale(1.1);
 }
+
+@media screen and (max-width:600px){
+    .Hero-container-image img{
+        display: none;
+    }
+}
