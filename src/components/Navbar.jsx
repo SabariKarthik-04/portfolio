@@ -31,7 +31,7 @@ const Navbar = () => {
             </ul>
         </div>
         <div className="navbar-contactme nav-btn">
-            <button onClick={()=>window.open("#contactme",'_parent')} className='contact-btn'>Contact Me</button>
+            <button onClick={()=>window.open("#contactme",'_parent')} className='contact-btn' id='contact'>Contact Me</button>
         </div> 
         </nav>
    </div>
