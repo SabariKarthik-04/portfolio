@@ -30,7 +30,7 @@ const ConatctForm = () => {
                 <label htmlFor="query">Query : </label>
                 <textarea name="to_message" id="query" cols="30" rows="10" placeholder='Type Your Query'></textarea>
                 <div className="btn-submit">
-                  <button type='submit' className='contact-btn special'>SUBMIT</button>
+                  <button type='submit' id='contact-btn' className='contact-btn special'>SUBMIT</button>
                 </div>
             </form>
         </div>
